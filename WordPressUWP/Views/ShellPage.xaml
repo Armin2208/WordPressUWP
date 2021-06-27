@@ -183,8 +183,7 @@
                                                    Height="96"
                                                    Width="96"
                                                    Margin="0"
-                                                   HorizontalAlignment="Center"
-                                                   CornerRadius="999"/>
+                                                   HorizontalAlignment="Center"/>
                         <TextBlock Text="{Binding CurrentUser.Name, Mode=OneWay}"
                                        HorizontalAlignment="Center"
                                        Margin="0 12 0 0"/>
